@@ -1,0 +1,14 @@
+{
+  "app": "origami-brew-log",
+  "version": 1,
+  "exportedAt": "2026-10-14T17:30:00.000Z",
+  "beans": {
+    "mv8alm36uy648": {
+      "altitude": 1930, "createdAt": "2026-10-14T15:56:36.498Z", "difficulty": 2, "favourite": 3, "filter": "cone",
+      "harvest": "2025", "name": "El Paraiso Pink Bourbon Washed", "notes": "Floral, Raspberry, White Tea, Panela",
+      "origin": "Cauca, Colombia", "process": "washed", "producer": "Daniel Bermudez", "roast": "light", "roastDate": "",
+      "roaster": "Hatch Coffee", "sourceUrl": "https://hatchcrafted.com/shop/ep-pink-bourbon-washed", "variety": "Pink Bourbon"
+    }
+  },
+  "brews": {}
+}
